@@ -1,0 +1,43 @@
+{
+  "Invoice": {
+    "Business": {
+      "Name": "Empresa",
+      "Street": "ubicación",
+      "geolocation": "Hermosillo, Sonora. 12345",
+      "Phone": "111-111-1111",
+      "Email": "info@info.com",
+      "Website": "www.website.com"
+    },
+    "Image": "logo.jpg",
+    "BillTo": {
+      "Name": "pedro",
+      "StreetAdress": "calle",
+      "geolocation": "Hermosillo, Sonora. 12344"
+    },
+    "ShipTo": {
+      "Name": "pedro",
+      "StreetAdress": "otra calle",
+      "geolocation": "Hermosillo, Sonora. 12344"
+    },
+    "InvoiceDetails": {
+      "Number": "1231234",
+      "Date": "12-12-2023",
+      "TermsofPayment": "pagar hasta 15-12-2023",
+      "geolocation": "Hermosillo, Sonora. 12345"
+    },
+    "Information": {
+      "Product": "Soda",
+      "Description": "El mejor producto",
+      "Qty_Hrs": "0",
+      "Rate": "3",
+      "Amount": "12"
+    },
+    "CustomerMessage": "Hola amigo.",
+    "Payment": {
+      "Subtotal": "30",
+      "SalesTax": "20",
+      "Shipping": "10",
+      "Total": "60"
+    }
+  }
+}
